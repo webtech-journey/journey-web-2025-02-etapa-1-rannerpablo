@@ -1,1 +1,3 @@
-Insira seu resumo aqui!
+De acordo com a aula anterior no caso a primeira aula seria a gente aprendeu sobre o canvas e a posibilade de gerar sities ou a criar eles 
+falamos sobre programação e varios outros temas como enderoço ip e dns e dominios e algo que me chamou a atenção sobre fron-end e back-end foi algo que gostei 
+e me identifiquei com o front-end e falamos sobre a chegada da intenet no brasil 
